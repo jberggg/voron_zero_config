@@ -1,0 +1,4 @@
+# versioned printer configs
+
+printer-*.cfg
+.printer*
